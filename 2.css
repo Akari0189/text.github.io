@@ -1,0 +1,31 @@
+/* This was made with GlassGenerator.netlify.app */
+
+.glass-container {
+  position: absolute;
+  top: 60%;
+  left: 40%;
+  width: 100px;
+  height: 100px;
+  margin: -50px 0 0 -50px;
+  font-size: larger;
+  width: 700px;
+  height: 375px;
+  color: rgb(255, 252, 252);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  border-radius: 38px;
+  backdrop-filter: blur(4px);
+  background-color: rgba(0, 191, 255, 0.162);
+  box-shadow: rgba(0, 0, 0, 0.3) 2px 8px 8px;
+  border: 3px rgba(255, 255, 255, 0.4) solid;
+  border-bottom: 3px rgba(40, 40, 40, 0.35) solid;
+  border-right: 3px rgba(40, 40, 40, 0.35) solid;
+}
+.mm {
+  width: 100%;
+  height: 100%;
+  display: block;
+  background: url(2.jpg) no-repeat center;
+}
